@@ -1,3 +1,9 @@
+/**
+ *  Very rude refactoring of https://github.com/fengdh/mdict-js to make it work with node.js by Jeka Kiselyov ( https://github.com/jeka-kiselyov ).
+ *  Please feel free to post pull requests with optimizations
+ *  Also released under terms of the MIT License.
+ */
+
 /*
  * A pure Javascript implementation of MDict Parser which supports dictionary file in mdx/mdd format.
  * By Feng Dihai <fengdh@gmail.com>, 2015/07/01
