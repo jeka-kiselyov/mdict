@@ -22,5 +22,12 @@
   "bugs": {
     "url": "https://github.com/jeka-kiselyov/mdict/issues"
   },
-  "homepage": "https://github.com/jeka-kiselyov/mdict#readme"
+  "homepage": "https://github.com/jeka-kiselyov/mdict#readme",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "buffer-dataview": "0.0.2",
+    "pako": "^1.0.4",
+    "text-encoding": "^0.6.4",
+    "xmldom": "^0.1.27"
+  }
 }
