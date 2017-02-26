@@ -1,6 +1,6 @@
 {
   "name": "mdict",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "node.js mdict (*.mdx, *.mdd) file reader",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "mdd",
     "vocabulary"
   ],
-  "author": "Jeka Kiselyov <jeka911@gmail.com> (http://www.jeka911.com/)",
+  "author": "Jeka Kiselyov <jeka911@gmail.com> (https://github.com/jeka-kiselyov)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jeka-kiselyov/mdict/issues"
