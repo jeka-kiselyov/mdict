@@ -1,5 +1,7 @@
 # node mdict
 
+> This project is out of date and there're no plans to update it. Please use [terasum/js-mdict](https://github.com/terasum/js-mdict) for your projects instead.
+
 node.js mdict (*.mdx, *.mdd) file reader
 
 Rude refactoring of https://github.com/fengdh/mdict-js to make it work on nodejs by [Jeka Kiselyov](https://github.com/jeka-kiselyov).
@@ -16,7 +18,7 @@ Usage:
 
 ```javascript
 var mdict = require('mdict');
-  
+
 mdict.dictionary('dictionary.mdx').then(function(dictionary){
 		//// dictionary is loaded
 		dictionary.search({
@@ -33,7 +35,7 @@ mdict.dictionary('dictionary.mdx').then(function(dictionary){
 			console.log('definitions:');     /// definition is array
 			console.log(definitions);
 		});
-		
+
 	});
 ```
 
