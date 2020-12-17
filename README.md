@@ -1,6 +1,6 @@
 # node mdict
 
-> This project is out of date and there're no plans to update it. Please use [terasum/js-mdict](https://github.com/terasum/js-mdict) for your projects instead.
+> This project is out of date and there're no plans to update it. Please use [terasum/js-mdict](https://github.com/terasum/js-mdict) for your projects.
 
 node.js mdict (*.mdx, *.mdd) file reader
 
